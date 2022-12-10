@@ -1,0 +1,2 @@
+# Avoid pushing the node_modules folder to version control systems
+node_modules
